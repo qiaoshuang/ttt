@@ -1,5 +1,8 @@
-ttt file
-//
-///
-////  add  by qiao
-wsguoxinyue
+public class Java {
+  public static void main (String [] args){
+    System.out.println("My name is SongHaining")
+  
+  }
+
+}
+
